@@ -1,0 +1,25 @@
+permalink: /:year:month:day/:title
+url: https://kraes.eu
+baseurl: /project
+
+# variables
+name: KristofRaes.be
+description: KristofRaes.be is the personal cloud place of Kristof Raes an European Flemish Belgian.
+google_verification: null
+
+
+# File management
+include: [".htaccess"]
+exclude: ["README.md", "LICENSE"]
+
+# Sass
+sass:
+  style: :compressed
+  sass_dir: _sass
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    disable : true
