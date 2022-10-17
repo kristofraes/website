@@ -21,6 +21,7 @@ Is active for the following organizations:
    - Labmanager (09/2022 - current)
    - ICT/AVM coordinator (09/2013 - 09/2022)
    - Lecturer web & new media (09/2013 - current)
+      
     - [Computer Science & Software Engineering I (T)](https://bamaflexweb.arteveldehs.be/BMFUIDetailxOLOD.aspx?a=169691&b=1&c=1)
     - [Computer Science & Software Engineering I](https://bamaflexweb.arteveldehs.be/BMFUIDetailxOLOD.aspx?a=173460&b=1&c=1)
 
