@@ -1,6 +1,6 @@
 ---
 layout: kristof
-title: kristof
+title: Kristof
 ---
 
 **Kristof Raes** an 36 years young European Flemish Belgian that...
