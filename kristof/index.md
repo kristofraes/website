@@ -22,8 +22,8 @@ Is active for the following organizations:
    - ICT/AVM coordinator (09/2013 - 09/2022)
    - Lecturer web & new media (09/2013 - present)
       
-    - [Computer Science & Software Engineering I (T)](https://bamaflexweb.arteveldehs.be/BMFUIDetailxOLOD.aspx?a=169691&b=1&c=1)
-    - [Computer Science & Software Engineering I](https://bamaflexweb.arteveldehs.be/BMFUIDetailxOLOD.aspx?a=173460&b=1&c=1)
+     - [Computer Science & Software Engineering I (T)](https://bamaflexweb.arteveldehs.be/BMFUIDetailxOLOD.aspx?a=169691&b=1&c=1)
+     - [Computer Science & Software Engineering I](https://bamaflexweb.arteveldehs.be/BMFUIDetailxOLOD.aspx?a=173460&b=1&c=1)
 
  - [**MUQID Company**](http://company.muqid.com)
    
