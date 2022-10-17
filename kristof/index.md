@@ -3,7 +3,7 @@ layout: kristof
 title: kristof
 ---
 
-**Kristof Raes** an 35 years young European Flemish Belgian that...
+**Kristof Raes** an 36 years young European Flemish Belgian that...
 
  - Lives in Aalst, East Flanders, Belgium
  - Loves food & nature (mini/micro forests)
@@ -18,8 +18,11 @@ Is active for the following organizations:
 
  - [**Artevelde University of Applied Sciences**](http://www.artevelde-uas.be) 
    
-   - ICT/AV&M coordinator
-   - Lecturer web & new media: [Computer Science & Software Engineering](http://bamaflexweb.arteveldehs.be/BMFUIDetailxOLOD.aspx?a=158623&b=1&c=1)
+   - Labmanager (09/2022 - current)
+   - ICT/AVM coordinator (09/2013 - 09/2022)
+   - Lecturer web & new media (09/2013 - current)
+    - [Computer Science & Software Engineering I (T)](https://bamaflexweb.arteveldehs.be/BMFUIDetailxOLOD.aspx?a=169691&b=1&c=1)
+    - [Computer Science & Software Engineering I](https://bamaflexweb.arteveldehs.be/BMFUIDetailxOLOD.aspx?a=173460&b=1&c=1)
 
  - [**MUQID Company**](http://company.muqid.com)
    
