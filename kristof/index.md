@@ -1,5 +1,5 @@
 ---
-layout: kristof
+layout: Kristof
 title: Kristof
 ---
 
