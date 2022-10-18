@@ -1,8 +1,4 @@
 /*
-
-Atom One Light by Daniel Gamage
-Original One Light Syntax theme from https://github.com/atom/one-light-syntax
-
 base:    #fafafa
 mono-1:  #383a42
 mono-2:  #686b77
@@ -15,7 +11,6 @@ hue-5:   #e45649
 hue-5-2: #c91243
 hue-6:   #986801
 hue-6-2: #c18401
-
 */
 
 .hljs {
