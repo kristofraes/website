@@ -1,6 +1,6 @@
 ---
 layout: kristof
-title: kristof
+title: Kristof
 ---
 
 **Kristof Raes** an 36 years young European Flemish Belgian that...
@@ -18,7 +18,7 @@ Is active for the following organizations:
 
  - [**Artevelde University of Applied Sciences**](http://www.artevelde-uas.be) 
    
-   - Labmanager (09/2022 - present)
+   - Lab manager (09/2022 - present)
    - ICT/AVM coordinator (09/2013 - 09/2022)
    - Lecturer web & new media (09/2013 - present)
       
@@ -27,7 +27,7 @@ Is active for the following organizations:
 
  - [**MUQID Company**](http://company.muqid.com)
    
-   - Top solver
+   - Top Solver
 
  - **RIC**
 
