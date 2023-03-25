@@ -3,18 +3,18 @@ layout: kristof
 title: Kristof
 ---
 
-**Kristof Raes** an 36 years young European Flemish Belgian that...
+**Kristof Raes** an 37 years young European Flemish Belgian that...
 
  - Lives in Aalst, East Flanders, Belgium
  - Loves food & nature (mini/micro forests)
  - Likes to swim and watching movies
  - Knows to code & invest in stocks
- - Avid in blockchain
+ - Avid in blockchain & disaster recovery
  - Travel worldwide
- - Crazy about solving problems
+ - Crazy about solving problems & always in for a challenge
  - Nickname: **top solver**
 
-Is active for the following organizations:
+Is active for the following organisations:
 
  - [**Artevelde University of Applied Sciences**](http://www.artevelde-uas.be) 
    
