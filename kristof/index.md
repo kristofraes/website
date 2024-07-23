@@ -6,7 +6,7 @@ title: Kristof
 **Kristof Raes** an 38 years young European Flemish Belgian that...
 
  - Lives in Aalst, East Flanders, Belgium
- - Loves the sea, food & nature (mini/micro forests)
+ - Loves the sea, food & nature (nano/micro/mini forests)
  - Likes to swim and watching movies
  - Knows to code & invest in stocks
  - Avid in blockchain & disaster recovery
