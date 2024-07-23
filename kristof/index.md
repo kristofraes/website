@@ -3,9 +3,10 @@ layout: Kristof
 title: Kristof
 ---
 
-**Kristof Raes** an 37 years young European Flemish Belgian that...
+**Kristof Raes** an 38 years young European Flemish Belgian that...
 
  - Lives in Aalst, East Flanders, Belgium
+ - Loves the sea
  - Loves food & nature (mini/micro forests)
  - Likes to swim and watching movies
  - Knows to code & invest in stocks
