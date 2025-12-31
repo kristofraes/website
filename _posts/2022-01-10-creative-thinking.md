@@ -9,7 +9,7 @@ tags: thinking
 Creative thinking is super important these days, and for a few clear reasons...
 
 **Rapid change and uncertainty**
-The world is changing at lightning speed—technology, economy, society… everything moves faster than ever. Creative thinking helps you stay flexible, find new solutions, and adapt to situations where there’s no ready-made playbook.
+The world is changing at lightning speed; technology, economy, society… everything moves faster than ever. Creative thinking helps you stay flexible, find new solutions, and adapt to situations where there’s no ready-made playbook.
 
 **Complex problems require new solutions**
 Big challenges like climate change, digitalization, healthcare, or social inequality are complex. You can’t solve them with standard solutions. Creative thinking allows you to look at problems from different angles and come up with innovative ideas.
