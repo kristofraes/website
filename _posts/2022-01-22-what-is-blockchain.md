@@ -38,15 +38,6 @@ A blockchain is a **digital chain of blocks**:
   2. The following blocks no longer match, because their “previous hash” is no longer correct.
 * This makes **fraud almost impossible**.
 
-**Visualization:**
-
-```
-[Block 1] → [Block 2] → [Block 3] → [Block 4]
-   ^           ^           ^
- previous    previous    previous
-  hash        hash        hash
-```
-
 ## **4. How consensus mechanisms (PoW / PoS) fit into this**
 
 * **Proof of Work (PoW)**: Computers must solve a difficult puzzle to add a new block. This proves that the block is legitimate.
@@ -59,7 +50,7 @@ A blockchain is a **digital chain of blocks**:
 * **Previous hash** = blocks form a chain → changing one block breaks everything after it
 * **Consensus mechanism** = the network decides who may add a new block → prevents cheating
 
-💡 **Short example:**
+**Short example:**
 
 * Block 1 → hash: ABC
 * Block 2 → hash of its own content + reference to ABC
