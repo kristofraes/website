@@ -53,7 +53,7 @@ A blockchain is a **digital chain of blocks**:
 * **Proof of Stake (PoS)**: People with more coins are selected to add new blocks.
 * **Result:** Only blocks that are **valid and approved by the network** are added to the chain.
 
-### **5. Security summary**
+## **5. Security summary**
 
 * **Hashing** = every block is unique and cannot be changed unnoticed
 * **Previous hash** = blocks form a chain → changing one block breaks everything after it
